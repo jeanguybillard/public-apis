@@ -590,6 +590,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | AXFR Database | AXFR public database | No | No | Unknown | [Go!](http://api.axfrcheck.com) |
 | HaveIBeenPwned | Passwords which have previously been exposed in data breaches | No | Yes | Unknown | [Go!](https://haveibeenpwned.com/API/v2) |
 | UK Police | UK Police data | No | Yes | Unknown | [Go!](https://data.police.uk/docs/) |
+| DDoS Realtime Detection | Get Susceptable IP addresses responsible for DDoS attacks | apiKey | Yes | Unknown | [Go!](https://github.com/jeanguybillard/angunasuktuq-saas-client) |
 
 ### Shopping
 API | Description | Auth | HTTPS | CORS | Link |
